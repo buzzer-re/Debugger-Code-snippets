@@ -1,2 +1,2 @@
 # Debugger code 
-Códigos usado para serie de artigos em https://www.mentebinaria.com.br/
+Códigos usados para a serie de artigos sobre construção de debugger para linux em https://www.mentebinaria.com.br/artigos
